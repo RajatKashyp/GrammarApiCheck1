@@ -35,7 +35,7 @@ public class HttpCall {
 
         /*if (InternetConnection.isDataConnectionAvailable(mainActivity) == true) {*/
         progressDialog = new ProgressDialog(mainActivity);
-        progressDialog.setMessage("Pull Successful");
+        progressDialog.setMessage("Pull Successfully done");
         progressDialog.show();
 
 
